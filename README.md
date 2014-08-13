@@ -1,5 +1,5 @@
 HelloFuzz
-=========
+-----------
 
 Hello world.
 
